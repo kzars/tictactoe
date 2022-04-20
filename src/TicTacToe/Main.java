@@ -7,6 +7,7 @@ public class Main {
     public static void main(String[] args)
     {
         //Creating Database instance
+        //Test comments from second team member
         DB db = new DB();
         Scanner scanner = new Scanner(System.in);
         char again = 'n';
